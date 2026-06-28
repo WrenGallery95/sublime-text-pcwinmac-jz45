@@ -1,4 +1,4 @@
-# 
+# Personnalisé Visual Studio Code extensions pour Mac OS | Ultime Visual Studio Code extensions pour PC Windows. Avec tests automatisés et diagrammes de base de données — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
